@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Cahier de texte</string>
+    <string name="copyrights">All Rights Reserved © 2018 | TDI2 TASSILA </string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Mot de passe (optionnel)</string>
+    <string name="action_sign_in">Se connnecter ou S\'inscrire</string>
+    <string name="action_sign_in_short">Se connnecter</string>
+    <string name="error_invalid_email">Email invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>Android MySQL Database Tutorial
+    <string name="Android_mysql_db_tuto">https://www.youtube.com/watch?v=HK515-8-Q_w</string>
+    <string name="title_activity_session_adminstrateur">SessionAdminstrateur</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

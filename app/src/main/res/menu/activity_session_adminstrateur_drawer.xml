@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Gestion">
+        <menu>
+          <group>
+        <item
+            android:id="@+id/Filière"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Filière"
+            />
+        <item
+            android:id="@+id/Module"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Module"
+            />
+        <item
+            android:id="@+id/Formateur"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Formateur"
+            />
+        <item
+            android:id="@+id/Groupe"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Groupe"
+            />
+        <item
+            android:id="@+id/Animation-Enseignement"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Animation-Enseignement"
+            />
+        <item
+            android:id="@+id/Compte"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Compte"
+            />
+    </group></menu></item>
+
+    <item android:title="Avancement des Programmes">
+        <menu>
+            <item
+                android:id="@+id/PMSM"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Modules /Mois" />
+            <item
+                android:id="@+id/PMM"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Module /ois" />
+            <item
+                android:id="@+id/AP"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Synthèse d'Avancement" />
+        </menu>
+    </item>
+
+</menu>
