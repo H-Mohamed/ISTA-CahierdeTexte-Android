@@ -47,7 +47,7 @@
             <item
                 android:id="@+id/PMM"
                 android:icon="@drawable/ic_menu_send"
-                android:title="Module /ois" />
+                android:title="Module /Mois" />
             <item
                 android:id="@+id/AP"
                 android:icon="@drawable/ic_menu_send"

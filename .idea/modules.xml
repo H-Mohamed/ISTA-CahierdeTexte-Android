@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Cahierdetexte.iml" filepath="$PROJECT_DIR$/Cahierdetexte.iml" />
+      <module fileurl="file://D:\ProjetsMobile\Cahierdetexte\ISTA-CahierdeTexte-Android\Cahierdetexte.iml" filepath="D:\ProjetsMobile\Cahierdetexte\ISTA-CahierdeTexte-Android\Cahierdetexte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ISTA-CahierdeTexte-Android.iml" filepath="$PROJECT_DIR$/ISTA-CahierdeTexte-Android.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
